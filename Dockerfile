@@ -1,5 +1,5 @@
 FROM python:3.8-alpine
-LABEL Author="jon4hz" 
+LABEL Author="kozimp" 
 LABEL version="1"
 WORKDIR /usr/src/app
 COPY requirements.txt ./
